@@ -1,9 +1,7 @@
 # Applied-Plotting-Charting-Data-Representation-in-Python
 
-# Region: USA , Domain: Effect of Rainfall and Snowfall in Temperature
-
-# Research Question:
-Did rainfall and snowfall affect the temperature of the USA?
+Region: USA , Domain: Effect of Rainfall and Snowfall in Temperature
+Research Question: Did rainfall and snowfall affect the temperature of the USA?
 
 ![Assignment4](https://user-images.githubusercontent.com/72176296/193398425-02e2a5b9-8ef2-4b68-bd95-9168b47b8294.png)
 
